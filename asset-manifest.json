@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/password-encoder/static/css/main.707a1698.css",
+    "main.js": "/password-encoder/static/js/main.a8f2dcfe.js",
+    "static/media/lock.png": "/password-encoder/static/media/lock.d50e1f9b3b896ac139db.png",
+    "index.html": "/password-encoder/index.html",
+    "main.707a1698.css.map": "/password-encoder/static/css/main.707a1698.css.map",
+    "main.a8f2dcfe.js.map": "/password-encoder/static/js/main.a8f2dcfe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.707a1698.css",
+    "static/js/main.a8f2dcfe.js"
+  ]
+}
